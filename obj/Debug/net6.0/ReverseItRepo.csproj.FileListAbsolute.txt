@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.deps.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/refint/ReverseItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ref/ReverseItRepo.dll
