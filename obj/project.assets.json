@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/Angelica/.nuget/packages/": {}
+    "/Users/michellemalfabon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/ReverseItRepo.csproj",
+      "projectUniqueName": "/Users/michellemalfabon/Desktop/ReverseItRepo/ReverseItRepo.csproj",
       "projectName": "ReverseItRepo",
-      "projectPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/ReverseItRepo.csproj",
-      "packagesPath": "/Users/Angelica/.nuget/packages/",
-      "outputPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/",
+      "projectPath": "/Users/michellemalfabon/Desktop/ReverseItRepo/ReverseItRepo.csproj",
+      "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
+      "outputPath": "/Users/michellemalfabon/Desktop/ReverseItRepo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Angelica/.nuget/NuGet/NuGet.Config"
+        "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

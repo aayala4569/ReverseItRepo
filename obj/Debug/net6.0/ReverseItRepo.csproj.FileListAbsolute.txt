@@ -13,3 +13,18 @@
 /Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.pdb
 /Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.genruntimeconfig.cache
 /Users/Angelica/Documents/Night Class Lectures/Assignments/ReverseIt/ReverseItRepo/obj/Debug/net6.0/ref/ReverseItRepo.dll
+/Users/michellemalfabon/Desktop/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo
+/Users/michellemalfabon/Desktop/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.deps.json
+/Users/michellemalfabon/Desktop/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.runtimeconfig.json
+/Users/michellemalfabon/Desktop/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.dll
+/Users/michellemalfabon/Desktop/ReverseItRepo/bin/Debug/net6.0/ReverseItRepo.pdb
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.csproj.AssemblyReference.cache
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.AssemblyInfoInputs.cache
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.AssemblyInfo.cs
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.csproj.CoreCompileInputs.cache
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.dll
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/refint/ReverseItRepo.dll
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.pdb
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ReverseItRepo.genruntimeconfig.cache
+/Users/michellemalfabon/Desktop/ReverseItRepo/obj/Debug/net6.0/ref/ReverseItRepo.dll
